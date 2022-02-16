@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Photograph of a room accompanying a lesson on Japanese vocabulary.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-504-japanese-iv-spring-2009/8cdd1bb0da1813544b26b85a9c46ef7f_room4.jpg
+file: /media/courses/21g-504-japanese-iv-spring-2009/8cdd1bb0da1813544b26b85a9c46ef7f_room4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lesson 17
+parent_type: CourseSection
 resourcetype: Image
 title: room4
 uid: 8cdd1bb0-da18-1354-4b26-b85a9c46ef7f

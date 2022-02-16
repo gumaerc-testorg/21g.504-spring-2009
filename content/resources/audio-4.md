@@ -2,12 +2,16 @@
 content_type: resource
 description: Icon representing a speaker, used as a navigational element on a course
   site.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-504-japanese-iv-spring-2009/57210537b9401ab68381845931c70ab8_audio.jpg
+file: /media/courses/21g-504-japanese-iv-spring-2009/57210537b9401ab68381845931c70ab8_audio.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lesson 21
+parent_type: CourseSection
 resourcetype: Image
 title: audio
 uid: 57210537-b940-1ab6-8381-845931c70ab8

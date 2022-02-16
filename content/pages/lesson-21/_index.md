@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 21
 uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 ---

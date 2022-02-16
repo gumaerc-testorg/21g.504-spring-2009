@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Audio recording demonstrating Japanese pronunciation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-504-japanese-iv-spring-2009/4af530e3f85d82699d68eede3a7dfcd3_Lesson18A5.mp3
+file: /media/courses/21g-504-japanese-iv-spring-2009/4af530e3f85d82699d68eede3a7dfcd3_Lesson18A5.mp3
 file_type: audio/mpeg
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lesson 18
+parent_type: CourseSection
 resourcetype: Other
 title: Lesson18A5
 uid: 4af530e3-f85d-8269-9d68-eede3a7dfcd3

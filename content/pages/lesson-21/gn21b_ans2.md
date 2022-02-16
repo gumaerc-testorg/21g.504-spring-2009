@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 21
+parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21B Section II Answers
 uid: 6d46c8dc-0422-7ba7-62f6-3dc6b475fb51

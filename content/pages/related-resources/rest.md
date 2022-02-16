@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Restaurants and Clubs in Japan
 uid: d4024a49-5775-4f97-0e61-aa00d2378532

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 17
 uid: 20539a8a-0070-a3dc-0491-23486d993904
 ---

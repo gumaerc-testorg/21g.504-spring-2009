@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Various Japanese Dialects
 uid: 0bf7d86c-6174-2817-c73b-e1938bc52e8b

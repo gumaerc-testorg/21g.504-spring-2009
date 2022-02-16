@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lesson 18
 uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 ---

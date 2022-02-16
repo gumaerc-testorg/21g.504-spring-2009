@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 17
+parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Grammar 17B
 uid: ea51bf8a-d402-0e7e-95cf-955045d4ec5e

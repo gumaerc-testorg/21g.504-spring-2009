@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 19
+parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Kanji 19
 uid: 049b5734-bedf-01d7-a42e-1065136c2ff7

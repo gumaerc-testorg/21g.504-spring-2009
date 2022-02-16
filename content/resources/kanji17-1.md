@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Photograph of a kanji character accompanying a lesson on Japanese. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-504-japanese-iv-spring-2009/7015f8a2a87beb41a95227ee9360d9ec_Kanji17.gif
+file: /media/courses/21g-504-japanese-iv-spring-2009/7015f8a2a87beb41a95227ee9360d9ec_Kanji17.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lesson 18
+parent_type: CourseSection
 resourcetype: Image
 title: Kanji17
 uid: 7015f8a2-a87b-eb41-a952-27ee9360d9ec

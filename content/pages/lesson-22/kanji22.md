@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 22
+parent_type: CourseSection
 parent_uid: ce845a14-e942-541d-7d56-a411e07e0465
 title: Kanji 22
 uid: b64f24c3-f826-20e5-2ec6-f728cd41463f

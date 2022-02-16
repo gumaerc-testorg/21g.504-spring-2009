@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Miscellaneous Links
 uid: a2191d6b-3e06-e513-0f4b-7b51d05cff43

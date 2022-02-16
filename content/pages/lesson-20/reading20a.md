@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 20
+parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Reading 20A
 uid: 21f90e22-0a36-c1a5-493a-52fc4da81fae

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 19
+parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19B Section II Answers
 uid: 1a770193-317c-d4ee-a3ae-1d06882a8216

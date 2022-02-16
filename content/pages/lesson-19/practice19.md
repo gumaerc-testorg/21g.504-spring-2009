@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 19
+parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Practice Quiz 19
 uid: 7e07361d-60a5-b4e8-c1f2-ab0a478ea090

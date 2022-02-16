@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: QuickTime movie of a kanji character being painted with a brush.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-504-japanese-iv-spring-2009/7097b2b5f08cbfa0716a01471fa1890f_Kanji30.mov
+file: /media/courses/21g-504-japanese-iv-spring-2009/7097b2b5f08cbfa0716a01471fa1890f_Kanji30.mov
 file_type: video/quicktime
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lesson 21
+parent_type: CourseSection
 resourcetype: Other
 title: Kanji30
 uid: 7097b2b5-f08c-bfa0-716a-01471fa1890f

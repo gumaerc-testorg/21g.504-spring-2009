@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Anime/Manga/Drama
 uid: 58dc08c7-c6ad-3d4f-d1fe-ca48f072ee8b

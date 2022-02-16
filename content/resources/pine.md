@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Photographs of a pine tree accompanying a lesson on Japanese vocabulary.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-504-japanese-iv-spring-2009/0bef4dfa2c707268b8f03cec500325a7_pine.jpg
+file: /media/courses/21g-504-japanese-iv-spring-2009/0bef4dfa2c707268b8f03cec500325a7_pine.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lesson 18
+parent_type: CourseSection
 resourcetype: Image
 title: pine
 uid: 0bef4dfa-2c70-7268-b8f0-3cec500325a7

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 20
+parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Grammar 20B Section I Answers
 uid: 44ae7281-f2b9-fe40-61cd-93837d606d1a

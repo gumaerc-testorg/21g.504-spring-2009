@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 17
+parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Reading 17A
 uid: 86812d1f-cae3-87cd-5b4a-303e028230f3

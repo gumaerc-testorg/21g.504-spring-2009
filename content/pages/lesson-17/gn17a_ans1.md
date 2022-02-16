@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 17
+parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Grammar 17A Section I Answers
 uid: ef161eb1-1bdd-468a-cca7-5633727ba716

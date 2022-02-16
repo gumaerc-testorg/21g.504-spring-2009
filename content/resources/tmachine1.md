@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Photograph of a travelers accompanying a lesson on Japanese vocabulary.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-504-japanese-iv-spring-2009/8291c438e4b39e36ab0cbfdfb3999a6e_tMachine1.jpg
+file: /media/courses/21g-504-japanese-iv-spring-2009/8291c438e4b39e36ab0cbfdfb3999a6e_tMachine1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lesson 19
+parent_type: CourseSection
 resourcetype: Image
 title: tMachine1
 uid: 8291c438-e4b3-9e36-ab0c-bfdfb3999a6e
