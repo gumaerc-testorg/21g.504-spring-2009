@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lesson 21
 parent_type: CourseSection
+parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 resourcetype: Image
 title: audio
 uid: 57210537-b940-1ab6-8381-845931c70ab8

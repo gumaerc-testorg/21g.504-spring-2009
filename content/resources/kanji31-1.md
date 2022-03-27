@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lesson 21
 parent_type: CourseSection
+parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 resourcetype: Other
 title: Kanji31
 uid: 622b920d-1d14-f7d5-ae52-576f0cf30cc7

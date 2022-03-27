@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lesson 17
 parent_type: CourseSection
+parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 resourcetype: Other
 title: Read21A_audio
 uid: b564fc62-f43b-7a08-7ea8-7c0e2db705c8

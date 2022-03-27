@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lesson 18
 parent_type: CourseSection
+parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 resourcetype: Other
 title: Kanji17
 uid: c20f0933-7f3f-a1c1-edaf-26590beef9b6

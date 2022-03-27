@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lesson 21
 parent_type: CourseSection
+parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 resourcetype: Image
 title: Kanji31
 uid: a0d4d7f2-f1b2-3ded-e3fc-db31cfc07295

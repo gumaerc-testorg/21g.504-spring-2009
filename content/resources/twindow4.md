@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lesson 19
 parent_type: CourseSection
+parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 resourcetype: Image
 title: tWindow4
 uid: 91275212-1bea-2f30-0556-777f0b608b85

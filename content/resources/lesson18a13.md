@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lesson 18
 parent_type: CourseSection
+parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 resourcetype: Other
 title: Lesson18A13
 uid: 35dde600-59ac-818e-0221-cd1d4e491ede
