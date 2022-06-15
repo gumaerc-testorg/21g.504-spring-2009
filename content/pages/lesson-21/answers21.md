@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 21
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Practice Quiz 21 Answers
 uid: 177ddadb-c1a9-edfa-bf29-febc52ac067e
+video_metadata:
+  youtube_id: null
 ---
 
 1.  \_\_\_\_\_\_\_\_\_\_ いいよ。
@@ -288,6 +291,6 @@ uid: 177ddadb-c1a9-edfa-bf29-febc52ac067e
   
  
 
-\[[Practice Quiz 21]({{< baseurl >}}/pages/lesson-21/practice21) | Practice Quiz 21 Answers\]
+\[{{% resource_link ffd04e79-663d-bf51-b206-7d92a3d1f51d "Practice Quiz 21" %}} | Practice Quiz 21 Answers\]
 
-\[[Lesson 21 Home]({{< baseurl >}}/pages/lesson-21/answers21)\]
+\[{{% resource_link 177ddadb-c1a9-edfa-bf29-febc52ac067e "Lesson 21 Home" %}}\]

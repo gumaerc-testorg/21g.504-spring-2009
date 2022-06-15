@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 21
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21B
 uid: f332dbd0-747e-510a-9734-5f115d7dcccb
+video_metadata:
+  youtube_id: null
 ---
 
 [Gerund + ても](#1)
@@ -86,7 +89,7 @@ uid: f332dbd0-747e-510a-9734-5f115d7dcccb
     6.  いらない: すてない方がいいんじゃないですか。
     7.  そふは若くない: 元気いっぱいです。
     
-    [Answers]({{< baseurl >}}/pages/lesson-21/gn21b_ans1)
+    {{% resource_link 11a5e643-cca6-d8f9-23b5-cde3dc8fd3a6 "Answers" %}}
     
 2.  〜ても〜ても Pattern "even whether...or... (not)"
     
@@ -111,7 +114,7 @@ uid: f332dbd0-747e-510a-9734-5f115d7dcccb
     3.  駅から近い/近くない: 車があるから、行けます。
     4.  この国では、なつだ/ふゆだ: ビールを飲みますねえ。
     
-    [Answer]({{< baseurl >}}/pages/lesson-21/gn21b_ans2)
+    {{% resource_link 6d46c8dc-0422-7ba7-62f6-3dc6b475fb51 "Answer" %}}
     
 
 {{< anchor "2" >}}{{< /anchor >}}Permission
@@ -149,7 +152,7 @@ uid: f332dbd0-747e-510a-9734-5f115d7dcccb
     4.  (このいすにすわる) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ いいですよ。
     5.  (部屋が別々だ) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ けっこうです。
     
-    [Answer]({{< baseurl >}}/pages/lesson-21/gn21b_ans3)
+    {{% resource_link 96ecbb80-96f6-dfd1-00ef-cfd356722d07 "Answer" %}}
     
 2.  Neg. なくてもいい "It is all right if not; (you) do not have to..."
     
@@ -184,7 +187,7 @@ uid: f332dbd0-747e-510a-9734-5f115d7dcccb
     4.  (部屋は大きくない) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ かまいません。
     5.  (和室じゃない) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ よろしいですか。
     
-    [Answers]({{< baseurl >}}/pages/lesson-21/gn21b_ans6)
+    {{% resource_link b6144893-3228-288d-e788-bea8359ccc0b "Answers" %}}
     
 
 {{< anchor "3" >}}{{< /anchor >}}WH-words
@@ -218,7 +221,7 @@ uid: f332dbd0-747e-510a-9734-5f115d7dcccb
     6.  (どのぐらい)からいですか: 食べられます→
     7.  (どのぐらい)時間がかかりますか: 読んでしまうつもりです→
     
-    [Answers]({{< baseurl >}}/pages/lesson-21/gn21b_ans5)
+    {{% resource_link 0aed9532-d4b4-4276-a474-b98fdfabde93 "Answers" %}}
     
 2.  WH-words + (particle) でも "any..."
     
@@ -246,9 +249,9 @@ uid: f332dbd0-747e-510a-9734-5f115d7dcccb
     5.  おさけは何ばいぐらい飲めますか。→
     6.  宅急便はにもつをどこへとどけてくれますか。→
     
-    [Answers]({{< baseurl >}}/pages/lesson-21/gn21b_ans6)
+    {{% resource_link b6144893-3228-288d-e788-bea8359ccc0b "Answers" %}}
     
 
-\[[Grammar 21A]({{< baseurl >}}/pages/lesson-21/grammar21a) | Grammar 21B\]
+\[{{% resource_link 8d91cd27-1c75-2031-6dcc-da546c822f5b "Grammar 21A" %}} | Grammar 21B\]
 
-\[[Lesson 21 Home]({{< baseurl >}}/pages/lesson-21)\]
+\[{{% resource_link bffa1146-720a-039c-9aec-636a7a7ab4cd "Lesson 21 Home" %}}\]

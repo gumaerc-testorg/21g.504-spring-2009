@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links related to current events in Japan.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Current Events in Japan
 uid: b41dd897-5294-dbf3-e7f8-aeceda4c608a
+video_metadata:
+  youtube_id: null
 ---
 
 [Japan Today](https://japantoday.com/)

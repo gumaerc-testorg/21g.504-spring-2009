@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 21
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Supplemental Reading 21
 uid: 85d9ab18-e131-cfc0-d019-e9a4353afeb4
+video_metadata:
+  youtube_id: null
 ---
 
 1.  このスープ、赤ちゃんにはちょっと熱いかもしれない。ちょっと冷めるまで待ってからあげましよう。  
@@ -114,6 +117,6 @@ READINGS
 
 {{< tableclose >}}
 
-\[[Reading 21A]({{< baseurl >}}/pages/lesson-21/reading21a) | [Reading 21B]({{< baseurl >}}/pages/lesson-21/reading21b) | Supplemental\]
+\[{{% resource_link bcb07d46-a529-3d70-c0fd-d3731f01f2c2 "Reading 21A" %}} | {{% resource_link e7ad8649-15ac-b478-cde5-661811c38420 "Reading 21B" %}} | Supplemental\]
 
-\[[Lesson 21 Home]({{< baseurl >}}/pages/lesson-21)\]
+\[{{% resource_link bffa1146-720a-039c-9aec-636a7a7ab4cd "Lesson 21 Home" %}}\]

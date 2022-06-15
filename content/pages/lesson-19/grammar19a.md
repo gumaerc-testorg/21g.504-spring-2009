@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 19
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19A
 uid: cb4bfe19-dc7c-3f84-7d18-36e4c07a3338
+video_metadata:
+  youtube_id: null
 ---
 
 [Sentence Modifiers](#1)
@@ -71,7 +74,7 @@ Make a sentence modifier to fit in each of the given contexts.
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_ テーブルですか。
     
 
-[Answers]({{< baseurl >}}/pages/lesson-19/gn19a_ans1)
+{{% resource_link 4ff95dd2-c0c1-bb0d-9645-e36eb5216d61 "Answers" %}}
 
 {{< anchor "2" >}}{{< /anchor >}}Anticipatory の "It is X that ...; what ... is X"
 ---------------------------------------------------------------------------------
@@ -123,7 +126,7 @@ What does の refer to in the following sentences?
     ううん、(ホームドラマ)
     
 
-[Answers]({{< baseurl >}}/pages/lesson-19/gn19a_ans2)
+{{% resource_link c69ab351-bc4e-5498-2c96-b76416641879 "Answers" %}}
 
 {{< anchor "3" >}}{{< /anchor >}}V imperfective/N の\] + の前 (に) "before V/before N"
 ----------------------------------------------------------------------------------
@@ -149,7 +152,7 @@ Combine the two sentences with 前に.
 2.  (食べました) + ちゃんと手をあらいましたか。
 3.  (けっこんします) + いろいろしておきます。
 
-[Answers]({{< baseurl >}}/pages/lesson-19/gn19a_ans3)
+{{% resource_link b580a545-60d6-7fa9-8763-7f76623b3972 "Answers" %}}
 
 {{< anchor "4" >}}{{< /anchor >}}V-Gerund + みる "do V and see how it turns out; try V-ing"
 -----------------------------------------------------------------------------------------
@@ -177,7 +180,7 @@ Paraphrase the expressions in the parentheses using てみる.
 2.  よく分からなかったので、先生に (聞きました)。
 3.  日本語で (話してくれません) か。
 
-[Answers]({{< baseurl >}}/pages/lesson-19/gn19a_ans4)
+{{% resource_link d1b48d93-bcad-02e5-e56d-acd5ba55d533 "Answers" %}}
 
 {{< anchor "5" >}}{{< /anchor >}}Photographic Vocabulary Aid
 ------------------------------------------------------------
@@ -187,13 +190,13 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![shinjukuStation1.jpg]({{< resource_file 31b9c6fc-a8fd-8584-ed07-6782ce345724 >}})]({{< baseurl >}}/resources/shinjukustation1)
+{{< resource uuid="31b9c6fc-a8fd-8584-ed07-6782ce345724" href_uuid="31b9c6fc-a8fd-8584-ed07-6782ce345724" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[![tMachine1.jpg]({{< resource_file 8291c438-e4b3-9e36-ab0c-bfdfb3999a6e >}})]({{< baseurl >}}/resources/tmachine1)
+{{< resource uuid="8291c438-e4b3-9e36-ab0c-bfdfb3999a6e" href_uuid="8291c438-e4b3-9e36-ab0c-bfdfb3999a6e" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[![tWindow4.jpg]({{< resource_file 91275212-1bea-2f30-0556-777f0b608b85 >}})]({{< baseurl >}}/resources/twindow4)
+{{< resource uuid="91275212-1bea-2f30-0556-777f0b608b85" href_uuid="91275212-1bea-2f30-0556-777f0b608b85" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,6 +205,6 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 
 [Photographic Vocabulary Aid: Main](http://web.mit.edu/21f.500/www/vocab-photo/index.html)
 
-\[Grammar 19A | [Grammar 19B]({{< baseurl >}}/pages/lesson-19/grammar19b)\]
+\[Grammar 19A | {{% resource_link 15dfb36e-f073-1e3a-30a2-7568de278087 "Grammar 19B" %}}\]
 
-\[[Lesson 19 Home]({{< baseurl >}}/pages/lesson-19)\]
+\[{{% resource_link 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25 "Lesson 19 Home" %}}\]

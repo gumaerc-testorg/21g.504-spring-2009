@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to Japanese recipes and food pages.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Yummy Recipes and Food Pages
 uid: f689eded-56fb-d59d-73f0-6d6fbc9708e1
+video_metadata:
+  youtube_id: null
 ---
 
 [Kumi's Japanese Recipes](http://web.archive.org/web/20021212130408/http://www1.ocn.ne.jp/~japonism/recipe.html)

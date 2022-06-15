@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 20
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Practice Quiz 20
 uid: 855da04b-010a-c98e-f4c2-d1f6c7f335ba
+video_metadata:
+  youtube_id: null
 ---
 
 Choose possible combinations. There may be zero or more than one possible combination for each question. For possible combinations, provide an English equivalent for the entire sentence.
@@ -82,6 +85,6 @@ Choose possible combinations. There may be zero or more than one possible combin
     2.  じゃないよ。
     3.  子ども?
 
-\[Practice Quiz 20 | [Practice Quiz 20 Answers]({{< baseurl >}}/pages/lesson-20/answers20)\]
+\[Practice Quiz 20 | {{% resource_link 988fb1e0-654e-f228-42b2-7b2426754f5b "Practice Quiz 20 Answers" %}}\]
 
-\[[Lesson 20 Home]({{< baseurl >}}/pages/lesson-20)\]
+\[{{% resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" %}}\]

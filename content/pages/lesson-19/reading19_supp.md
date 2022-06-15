@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 19
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Supplemental Reading 19
 uid: 6888bcbe-502f-3daf-3eb5-458792a6e416
+video_metadata:
+  youtube_id: null
 ---
 
 1.  西田さんからもらったオペラの切符をどこにしまったかはっきり覚えていない。  
@@ -29,6 +32,6 @@ uid: 6888bcbe-502f-3daf-3eb5-458792a6e416
     
 10.  このスキーツアーは京都駅午後七時発ですけど、集まるのは六時半です。当日駅の北口の売店の前にツアーの人が来ていますから、その人に自分の名前と写真が付いているカードをもらってください。長野の山まで電車で六時間半ほどかかりますが、ノンストップなので、中でゆっくりねられると思います。
 
-\[[Reading 19A]({{< baseurl >}}/pages/lesson-19/reading19a) | [Reading 19B]({{< baseurl >}}/pages/lesson-19/reading19b) | Supplemental\]
+\[{{% resource_link 8ca5a323-383a-f162-33bd-af9b2b7683ac "Reading 19A" %}} | {{% resource_link dbc00f80-2d60-366e-9271-9502c15a40dd "Reading 19B" %}} | Supplemental\]
 
-\[[Lesson 19 Home]({{< baseurl >}}/pages/lesson-19)\]
+\[{{% resource_link 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25 "Lesson 19 Home" %}}\]

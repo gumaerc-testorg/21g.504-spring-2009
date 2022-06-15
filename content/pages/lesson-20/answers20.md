@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 20
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Practice Quiz 20 Answers
 uid: 988fb1e0-654e-f228-42b2-7b2426754f5b
+video_metadata:
+  youtube_id: null
 ---
 
 1.  このにもつを \_\_\_\_\_\_\_\_\_\_ 。
@@ -256,6 +259,6 @@ uid: 988fb1e0-654e-f228-42b2-7b2426754f5b
         Is s/he the child who is expected to be in bed having caught a cold?
         
 
-\[[Practice Quiz 20]({{< baseurl >}}/pages/lesson-20/practice20) | Practice Quiz 20 Answers\]
+\[{{% resource_link 855da04b-010a-c98e-f4c2-d1f6c7f335ba "Practice Quiz 20" %}} | Practice Quiz 20 Answers\]
 
-\[[Lesson 20 Home]({{< baseurl >}}/pages/lesson-20)\]
+\[{{% resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" %}}\]

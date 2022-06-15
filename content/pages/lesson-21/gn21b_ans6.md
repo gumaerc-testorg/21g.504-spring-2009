@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 21
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21B Section VI Answers
 uid: b6144893-3228-288d-e788-bea8359ccc0b
+video_metadata:
+  youtube_id: null
 ---
 
 1.  そのこうぎはだれでも取れます。  
@@ -28,4 +31,4 @@ uid: b6144893-3228-288d-e788-bea8359ccc0b
     Takkyuubin delivers luggage wherever it is.
     
 
-\[[Back to Grammar 21B]({{< baseurl >}}/pages/lesson-21/grammar21b#3)\]
+\[{{% resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#3" %}}\]

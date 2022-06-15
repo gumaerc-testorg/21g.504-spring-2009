@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photograph of a kanji character accompanying a lesson on Japanese. '
-file: /media/courses/21g-504-japanese-iv-spring-2009/38a1941d1eefc16b126497546a89953a_Kanji18.gif
+file: /courses/21g-504-japanese-iv-spring-2009/38a1941d1eefc16b126497546a89953a_Kanji18.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 resourcetype: Image
 title: Kanji18
 uid: 38a1941d-1eef-c16b-1264-97546a89953a
+video_metadata:
+  youtube_id: null
 ---
+Photograph of a kanji character accompanying a lesson on Japanese. 
+

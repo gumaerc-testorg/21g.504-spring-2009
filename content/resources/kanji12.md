@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of a kanji character accompanying a lesson on Japanese.
-file: /media/courses/21g-504-japanese-iv-spring-2009/353dd0e34cfaf3689170833453365017_Kanji12.gif
+file: /courses/21g-504-japanese-iv-spring-2009/353dd0e34cfaf3689170833453365017_Kanji12.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 resourcetype: Image
 title: Kanji12
 uid: 353dd0e3-4cfa-f368-9170-833453365017
+video_metadata:
+  youtube_id: null
 ---
+Photograph of a kanji character accompanying a lesson on Japanese.
+
