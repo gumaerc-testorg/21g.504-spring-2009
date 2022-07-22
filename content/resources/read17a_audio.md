@@ -4,6 +4,7 @@ description: Archive containing audio recordings demonstrating Japanese pronunci
 file: /courses/21g-504-japanese-iv-spring-2009/b0e6fb4ce9700d7518195aacc711cf0d_Read17A_audio.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lesson 17
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 Archive containing audio recordings demonstrating Japanese pronunciation.
-

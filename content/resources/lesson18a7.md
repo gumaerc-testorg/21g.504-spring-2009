@@ -4,6 +4,7 @@ description: Audio recording demonstrating Japanese pronunciation.
 file: /courses/21g-504-japanese-iv-spring-2009/f059f8e94b567aa2a8a8d2fb4060ebca_Lesson18A7.mp3
 file_type: audio/mpeg
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lesson 18
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 Audio recording demonstrating Japanese pronunciation.
-
