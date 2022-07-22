@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: "Grammar section of a lesson on Japanese language. Includes: Verbals\
+  \ of Giving: \u3042\u3052\u308B\u3001\u304F\u308C\u308B; Vte + \u3042\u3052\u308B\
+  /\u304F\u308C\u308B \"do s.t. for s.o.; do s.o. a favor by doing s.t.\"; Additional\
+  \ Request Structural Patterns (SP); and Miscellaneous Notes (MN)."
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 17
+parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Grammar 17A
 uid: 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0
+video_metadata:
+  youtube_id: null
 ---
 
 [Verbals of Giving: あげる、くれる](#1)
@@ -75,7 +84,7 @@ Describe the following situations when the giver gave something to the receiver.
 7.  山森先生 (giver) → 私 (receiver); 写真
 8.  おきゃくさま (giver) → むすめ (receiver); きれいな本
 
-[Answers]({{< baseurl >}}/pages/lesson-17/gn17a_ans1)
+{{% resource_link ef161eb1-1bdd-468a-cca7-5633727ba716 "Answers" %}}
 
 {{< anchor "2" >}}{{< /anchor >}}Vte + あげる/くれる "Do s.t. for s.o.; Do s.o. a favor by doing s.t."
 ------------------------------------------------------------------------------------------------
@@ -130,7 +139,7 @@ Express the following using Vte + れる/あげる.
 7.  おきゃくさまを駅まで送りましょうか。→
 8.  ぼくは弟のしゅくだいを手伝いません。→
 
-[Answers]({{< baseurl >}}/pages/lesson-17/gn17a_ans2)
+{{% resource_link 3c59f4ef-26f2-a03f-3ab1-e69e8cc0d0ce "Answers" %}}
 
 Additional Request Structural Patterns (SP)
 -------------------------------------------
@@ -170,7 +179,7 @@ Practice making requests in different politeness levels.
 4.  \[To a stranger\] Please do not smoke here.
 5.  \[To your friend\] Please do not go home yet.
 
-[Answers]({{< baseurl >}}/pages/lesson-17/gn17a_ans3)
+{{% resource_link 7204bd1b-1cfc-88b5-0f97-dfae5174abb9 "Answers" %}}
 
 {{< anchor "4" >}}{{< /anchor >}}Miscellaneous Notes (MN)
 ---------------------------------------------------------
@@ -199,6 +208,6 @@ Practice making requests in different politeness levels.
         I have a bit of a headache today...
         
 
-\[Grammar 17A | [Grammar 17B]({{< baseurl >}}/pages/lesson-17/grammar17b)\] 
+\[Grammar 17A | {{% resource_link ea51bf8a-d402-0e7e-95cf-955045d4ec5e "Grammar 17B" %}}\] 
 
-\[[Lesson 17 Home]({{< baseurl >}}/pages/lesson-17)\]
+\[{{% resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" %}}\]

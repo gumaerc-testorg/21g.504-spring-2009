@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 21
+parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21B Section I Answers
 uid: 11a5e643-cca6-d8f9-23b5-cde3dc8fd3a6
+video_metadata:
+  youtube_id: null
 ---
 
 1.  かぜをひいていても、今日は学校を休まない。  
@@ -28,4 +34,4 @@ uid: 11a5e643-cca6-d8f9-23b5-cde3dc8fd3a6
     Even though my grandfather is not young, he is full of spirits.
     
 
-\[[Back to Grammar 21B]({{< baseurl >}}/pages/lesson-21/grammar21b#1)\]
+\[{{% resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#1" %}}\]

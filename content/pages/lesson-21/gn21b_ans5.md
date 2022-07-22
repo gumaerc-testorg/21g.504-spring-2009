@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 21
+parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21B Section V Answers
 uid: 0aed9532-d4b4-4276-a474-b98fdfabde93
+video_metadata:
+  youtube_id: null
 ---
 
 1.  何を調べても、分かりません。  
@@ -28,4 +34,4 @@ uid: 0aed9532-d4b4-4276-a474-b98fdfabde93
     No matter how much time it may take, I will finish reading it.
     
 
-\[[Back to Grammar 21B]({{< baseurl >}}/pages/lesson-21/grammar21b#3)\]
+\[{{% resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#3" %}}\]

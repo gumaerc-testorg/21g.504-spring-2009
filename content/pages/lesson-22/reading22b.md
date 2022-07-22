@@ -1,14 +1,20 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 22
+parent_type: CourseSection
 parent_uid: ce845a14-e942-541d-7d56-a411e07e0465
 title: Reading 22B
 uid: edc92725-3fe5-ae7f-afa9-8c3d4e74ccee
+video_metadata:
+  youtube_id: null
 ---
 
 Click on the audio file after each reading to hear an audio recording of the pronunciation.
 
-秋山さんへ、 ([MP3]({{< baseurl >}}/resources/lesson22b1))
+秋山さんへ、 ({{% resource_link ebd85cf2-0dcd-60dc-4b74-e044e5a27ef7 "MP3" %}})
 
 ニュースによると、台風が東京に近づいているそうですが、お変わりありませんか。
 
@@ -16,7 +22,7 @@ Click on the audio file after each reading to hear an audio recording of the pro
 
 今私は、イタリアの南の方にある、シチリアという島に来ています。秋山さんは『グレートブルー』という映画を見たことがありますか。たしか、『グランブルー』という名前になって DVD が出ているはずです。20 才の時にこの映画を見てからずっと、どうしてもこの目でタオルミーナという港町を見てみたくて、こんな遠くまで足を運んでしまいました。
 
-([MP3]({{< baseurl >}}/resources/lesson22b2)) 民宿に泊まるつもりでしたが、旅行代理店の人に、冬はどのホテルも普通より安い値段になっているので、せっかくだからなるべく景色のいい所に泊まった方がいいと聞いて、映画に出てくる有名なホテルに予約を入れました。
+({{% resource_link 504250d6-5687-18b1-f621-a45dc6a30be2 "MP3" %}}) 民宿に泊まるつもりでしたが、旅行代理店の人に、冬はどのホテルも普通より安い値段になっているので、せっかくだからなるべく景色のいい所に泊まった方がいいと聞いて、映画に出てくる有名なホテルに予約を入れました。
 
 あいにく、昨夜遅く空港に着いてから、一晩中雨。小さなシングルルームの窓からは何も見えなくて、がっかりした、というよりむしろ、腹が立って腹が立って、なかなか寝られませんでした。でも、今朝起きて窓を開けた時、どうしてこの小さな町に世界中のダイバーが集まるのか、スキューバダイビングの経験の全く無い私でも分かりました。よく晴れた空とやさしい風。こんなに青くてきれいな海でダイビングをして、気持ちがよくないはずはありません。
 
@@ -203,6 +209,6 @@ the world
 
 {{< tableclose >}}
 
-\[[Reading 22A]({{< baseurl >}}/pages/lesson-22/reading22a) | Reading 22B | [Supplemental]({{< baseurl >}}/pages/lesson-22/reading22_supp)\]
+\[{{% resource_link 15a28556-f823-966d-5892-5bacd3fbb8ff "Reading 22A" %}} | Reading 22B | {{% resource_link 3725c2c8-b87d-981e-668f-4b4079835dcd "Supplemental" %}}\]
 
-\[[Lesson 22 Home]({{< baseurl >}}/pages/lesson-22)\]
+\[{{% resource_link ce845a14-e942-541d-7d56-a411e07e0465 "Lesson 22 Home" %}}\]

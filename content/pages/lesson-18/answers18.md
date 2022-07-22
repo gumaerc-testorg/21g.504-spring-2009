@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: Answers to practice questions from a lesson on Japanese language.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 18
+parent_type: CourseSection
 parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 title: Practice Quiz 18 Answers
 uid: b5bf2c31-2feb-bb55-09bc-8161e2f3c51b
+video_metadata:
+  youtube_id: null
 ---
 
 1.  \_\_\_\_\_\_\_\_\_\_ かどうか、ききましょうか。
@@ -149,6 +155,6 @@ uid: b5bf2c31-2feb-bb55-09bc-8161e2f3c51b
         I asked, &grave;Did you attend ~?'
         
 
-\[[Practice Quiz 18]({{< baseurl >}}/pages/lesson-18/practice18) | Practice Quiz 18 Answers\]
+\[{{% resource_link d36a1695-a5a5-3415-09d8-80996017162e "Practice Quiz 18" %}} | Practice Quiz 18 Answers\]
 
-\[[Lesson 18 Home]({{< baseurl >}}/pages/lesson-18)\]
+\[{{% resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" %}}\]

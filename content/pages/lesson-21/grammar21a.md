@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 21
+parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21A
 uid: 8d91cd27-1c75-2031-6dcc-da546c822f5b
+video_metadata:
+  youtube_id: null
 ---
 
 [Becoming Verbals: 決まった物](#1)
@@ -52,7 +58,7 @@ Notes: 'Becoming' Verbals in sentence modifiers:
 3.  かのじょは、(けっこんしている)男せいと会っている。
 4.  (まちがっている)道を教えちゃいました。
 
-[Answers]({{< baseurl >}}/pages/lesson-21/gn21a_ans1)
+{{% resource_link 9884360f-fdcf-6d4d-a694-b92a705b54c9 "Answers" %}}
 
 X {{< anchor "2" >}}{{< /anchor >}}(Particle) しか〜ない "nothing but X; only X"
 ---------------------------------------------------------------------------
@@ -104,7 +110,7 @@ Add しか to the elements in the brackets.
 4.  \[米国に\]ある物は何ですか。
 5.  漢字を\[二百\]知っています。
 
-[Answers]({{< baseurl >}}/pages/lesson-21/gn21a_ans2)
+{{% resource_link 63c95c25-a46e-6f53-760a-af70f7756362 "Answers" %}}
 
 {{< anchor "3" >}}{{< /anchor >}}Hearsay: そうだ "I hear that; I heard that; they say that"
 ----------------------------------------------------------------------------------------
@@ -194,7 +200,7 @@ Express the following with そうです.
 3.  あのしょくどうは、決まった物しか出しません。
 4.  日本を旅行するのには、ＪＲパスを使うのが一番便利です。
 
-[Answers]({{< baseurl >}}/pages/lesson-21/gn21a_ans3)
+{{% resource_link 8f69e19d-50f7-1366-9bad-d51516fa113d "Answers" %}}
 
 こと "{{< anchor "4" >}}{{< /anchor >}} intangible thing" cf. Nominalizer の
 -------------------------------------------------------------------------
@@ -220,7 +226,7 @@ Express the following with そうです.
     2.  I'll tell you something important, so listen carefully.
     3.  Please explain to me what the professor said in his lecture.
     
-    [Answers]({{< baseurl >}}/pages/lesson-21/gn21a_ans4)
+    {{% resource_link 9dcc7891-005e-8a44-6ed4-3b6ca1299871 "Answers" %}}
     
 2.  X と(or って)いうこと "the fact stated as X"
     
@@ -249,7 +255,7 @@ Express the following with そうです.
     3.  I was told that the inn that I called this morning was all booked up.
     4.  I was told that the president is on a business trip, and I won't be able to see him until April 10th.
     
-    [Answers]({{< baseurl >}}/pages/lesson-21/gn21a_ans5)
+    {{% resource_link 207dce8c-a98f-ff47-df46-5768bf876997 "Answers" %}}
     
 3.  ことがある "times when..."
     
@@ -262,6 +268,6 @@ Express the following with そうです.
         I've only talked to the new lawyer, Shimada, on the phone.
         
 
-\[Grammar 21A | [Grammar 21B]({{< baseurl >}}/pages/lesson-21/grammar21b)\]
+\[Grammar 21A | {{% resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Grammar 21B" %}}\]
 
-\[[Lesson 21 Home]({{< baseurl >}}/pages/lesson-21)\]
+\[{{% resource_link bffa1146-720a-039c-9aec-636a7a7ab4cd "Lesson 21 Home" %}}\]

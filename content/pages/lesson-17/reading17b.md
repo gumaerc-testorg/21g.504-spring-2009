@@ -1,14 +1,20 @@
 ---
 content_type: page
+description: Japanese language reading assignment.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 17
+parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Reading 17B
 uid: 2cccb8b9-9929-ba65-70bc-989ffd48f47a
+video_metadata:
+  youtube_id: null
 ---
 
 Click on the audio file to hear an audio recording of the pronunciation.
 
-寺田さん、 ([MP3 - 1.3MB]({{< baseurl >}}/resources/lesson17b))
+寺田さん、 ({{% resource_link cc83f237-bc7e-4ae5-374a-55f8b9a5aabd "MP3 - 1.3MB" %}})
 
 お元気ですか。今朝、こちらは今年初めての雪でした。午後は雨に変わりましたが、こちらはやっぱり東京よりずいぶん寒いと思います。風邪を引いてしまって、三日ほど薬を飲んでいますが、まだ、のどと耳が少しおかしいんです。
 
@@ -232,6 +238,6 @@ take care of yourself (lit. "attach attention to your body"), used when for exam
 {{< tableclose >}}
 
   
-\[[Reading 17A]({{< baseurl >}}/pages/lesson-17/reading17a) | Reading 17B\]
+\[{{% resource_link 86812d1f-cae3-87cd-5b4a-303e028230f3 "Reading 17A" %}} | Reading 17B\]
 
-\[[Lesson 17 Home]({{< baseurl >}}/pages/lesson-17)\]
+\[{{% resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" %}}\]

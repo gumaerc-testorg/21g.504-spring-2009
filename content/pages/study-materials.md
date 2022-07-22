@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This section provides resources helpful for review and practice during
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 5b915254-f803-29a8-2186-003451d64012
+video_metadata:
+  youtube_id: null
 ---
 
 These resources may be helpful for review and practice during the course.

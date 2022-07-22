@@ -1,9 +1,17 @@
 ---
 content_type: page
+description: "Grammar section of a lesson on Japanese language. Includes: X \u3068\
+  \u3044\u3046 Y: \"Y called X; Y named X\"; Quotation \u3068\u8A00\u3046, Quotation\
+  \ \u3063\u3066\u8A00\u3046; Embedded WH- Questions."
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 18
+parent_type: CourseSection
 parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 title: Grammar 18B
 uid: 6e8187e8-d5ed-322d-f510-3877e509a8c4
+video_metadata:
+  youtube_id: null
 ---
 
 [X という Y: "Y called X; Y named X"](#1)
@@ -44,7 +52,7 @@ Examples:
 4.  この部には、 (a person called "Nomura") はおりません。
 5.  お父さんは、 (which company (lit. company named what)) で仕事をなさっていますか。
 
-[Answers]({{< baseurl >}}/pages/lesson-18/gn18b_ans1)
+{{% resource_link d40baf4a-a703-d315-2f7e-be7423d12a14 "Answers" %}}
 
 Asking for explanation/definition:
 
@@ -142,7 +150,7 @@ Paraphrase the following sentences in indirect quotations.
 4.  部長は「その会ぎにぼくが出てあげるよ。」っておっしゃいました。
 5.  大田さんが「何だいもコンピューターを直した?」と言いました。
 
-[Answers]({{< baseurl >}}/pages/lesson-18/gn18b_ans2)
+{{% resource_link 5ab01a72-01f0-08f2-8b61-51ea9cf930eb "Answers" %}}
 
 {{< anchor "3" >}}{{< /anchor >}}Embedded WH- Questions
 -------------------------------------------------------
@@ -195,11 +203,11 @@ Combine the following sentences.
     
 6.  会ぎは何というホテルでありますか + 何日間ありますか + 覚えていない。 →
 
-[Answers]({{< baseurl >}}/pages/lesson-18/gn18b_ans3)
+{{% resource_link df9e00da-ff90-c54e-77da-1655f119e035 "Answers" %}}
 
   
  
 
-\[[Grammar 18A]({{< baseurl >}}/pages/lesson-18/grammar18a) | Grammar 18B\]
+\[{{% resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Grammar 18A" %}} | Grammar 18B\]
 
-\[[Lesson 18 Home]({{< baseurl >}}/pages/lesson-18)\]
+\[{{% resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" %}}\]

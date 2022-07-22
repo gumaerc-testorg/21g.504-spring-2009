@@ -1,18 +1,24 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 19
+parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Kanji 19
 uid: 049b5734-bedf-01d7-a42e-1065136c2ff7
+video_metadata:
+  youtube_id: null
 ---
 
 Each character entry below contains a ≤1 MB QuickTime movie of the character being painted with a brush, created by [Prof. Saeko Komori](http://www.mokosystem.com/komori/wwkanji2k/wwkanji2056.html) of [Chubu University](http://www.chubu.ac.jp/). Please see the [JP Net Kanji Project](http://web.mit.edu/jpnet/kanji-project/index.html) for more details.
 
 In the following definitions, **on** (Chinese-based) readings are represented by katakana, and by capital romaji letters; **kun** (native Japanese-based) readings are represented by hiragana, and by lower-case romaji letters. This is a common dictionary convention, and does not have any bearing on meaning.
 
-![4609.gif]({{< resource_file c7ae0bc2-b32a-9db2-3932-73687dda0db9 >}})
+{{< resource c7ae0bc2-b32a-9db2-3932-73687dda0db9 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/4609-1)
+**Video:** {{% resource_link 04ea9d3d-8d5a-941c-6548-d133e6de2637 "Writing and pronunciation" %}}
 
 **Printed form:** 立
 
@@ -27,9 +33,9 @@ A person standing with feet firmly planted on the ground.
 立つ (たつ) stand up  
 立てる (たてる) erect
 
-![3968.gif]({{< resource_file 4052d9d1-fcd6-34d4-5075-01a79d246a10 >}})
+{{< resource 4052d9d1-fcd6-34d4-5075-01a79d246a10 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/3968)
+**Video:** {{% resource_link 0b176c53-29af-6d51-9efd-0ab0b8c16c25 "Writing and pronunciation" %}}
 
 **Printed form:** 売
 
@@ -44,9 +50,9 @@ Some day you will write and sell a good book that people read 読.
 売る (うる) sell  
 売店 (ばいてん) kiosk
 
-![1861.gif]({{< resource_file 5954bf14-1d2d-d067-49ee-b7774025f5e4 >}})
+{{< resource 5954bf14-1d2d-d067-49ee-b7774025f5e4 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/1861)
+**Video:** {{% resource_link 106ab2dc-dfb7-7e03-324e-2dbc3143f5bc "Writing and pronunciation" %}}
 
 **Printed form:** 課
 
@@ -60,9 +66,9 @@ The word radical 言 and a fruit 果物 \[くだもの\].
 **Usage Examples:**  
 課長 (かちょう) section chief
 
-![4015.gif]({{< resource_file 5048e2f7-b581-a231-0492-59cde7386adb >}})
+{{< resource 5048e2f7-b581-a231-0492-59cde7386adb >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/4015-1)
+**Video:** {{% resource_link 73cf0e7a-83cf-d856-1b9b-7ea3c7cdb9ae "Writing and pronunciation" %}}
 
 **Printed form:** 発
 
@@ -79,9 +85,9 @@ Open the gate 開 right now. People are leaving in all directions!
 
 **Printed form:** 集
 
-![2924.gif]({{< resource_file 39967bb2-cad2-499e-79ce-86df258cc6eb >}})
+{{< resource 39967bb2-cad2-499e-79ce-86df258cc6eb >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/2924)
+**Video:** {{% resource_link 1225854f-784a-9700-ba38-1788111ee9bf "Writing and pronunciation" %}}
 
 **Readings:** あつ (まる)/あつ (める) atsu
 
@@ -94,9 +100,9 @@ Birds 隹 gathering on a tree 木. \[曜 (よう) "days of week"; 難 (むずか
 集める (あつめる) gather  
 集まる (あつまる) come together
 
-![3878.gif]({{< resource_file f9847710-6f20-340e-0db2-e5a458f2e464 >}})
+{{< resource f9847710-6f20-340e-0db2-e5a458f2e464 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/3878)
+**Video:** {{% resource_link aebe0341-4f6d-efbf-e19d-7920b73ff751 "Writing and pronunciation" %}}
 
 **Printed form:** 南
 
@@ -112,9 +118,9 @@ Can you see the image of a white-stoned church building in New Mexico?
 南口 (みなみぐち) south entrance  
 南アメリカ (みなみアメリカ) South America
 
-![4344.gif]({{< resource_file af28a645-c932-f4b2-b3b6-3b5ba0b6679c >}})
+{{< resource af28a645-c932-f4b2-b3b6-3b5ba0b6679c >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/4344-1)
+**Video:** {{% resource_link 844d25d0-994e-f500-063d-51160a608a1a "Writing and pronunciation" %}}
 
 **Printed form:** 北
 
@@ -129,9 +135,9 @@ Two persons facing back to back.
 北 (きた) north  
 北口 (きたぐち) north entrance
 
-![3230.gif]({{< resource_file 7c45af37-97ef-c2a7-d8c9-8d1e20f41dde >}})
+{{< resource 7c45af37-97ef-c2a7-d8c9-8d1e20f41dde >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/3230-1)
+**Video:** {{% resource_link 8c43703e-7d73-6ead-aa41-2cf9cbead88f "Writing and pronunciation" %}}
 
 **Printed form:** 西
 
@@ -146,9 +152,9 @@ A picture of a pitcher with lid.
 西 (にし) west  
 西口 (にしぐち) west entrance
 
-![1883.gif]({{< resource_file 839eea11-66a3-8876-ed7b-bbb6d78eef85 >}})
+{{< resource 839eea11-66a3-8876-ed7b-bbb6d78eef85 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/1883)
+**Video:** {{% resource_link 4dd0109a-d493-ab15-82ba-e8db90c02b21 "Writing and pronunciation" %}}
 
 **Printed form:** 回
 
@@ -162,9 +168,9 @@ A neat design of squares repeated several times.
 **Usage Examples:**  
 一回 (いっかい) once
 
-![4153.gif]({{< resource_file ba131ba0-d28a-6efc-4b54-67c9eadb4eaa >}})
+{{< resource ba131ba0-d28a-6efc-4b54-67c9eadb4eaa >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/4153)
+**Video:** {{% resource_link 9fe01948-e314-91bf-ac57-f92181a400bb "Writing and pronunciation" %}}
 
 **Printed form:** 付
 
@@ -178,9 +184,9 @@ A person with pulse 寸. \[時 (とき; ジ) "time"\]
 **Usage Examples:**  
 受付 (うけつけ) receptionist
 
-![4168.gif]({{< resource_file 194ee975-2d74-3b30-5232-68f2eadd0f65 >}})
+{{< resource 194ee975-2d74-3b30-5232-68f2eadd0f65 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/4168)
+**Video:** {{% resource_link e2463337-77ff-9b37-60e4-4c2c40f584a3 "Writing and pronunciation" %}}
 
 **Printed form:** 符
 
@@ -194,9 +200,9 @@ The bamboo radical 竹 and the kanji 付 for attachment.
 **Usage Examples:**  
 切符 (きっぷ) ticket
 
-![3720.gif]({{< resource_file 26492f66-ee2b-caea-d77e-1cfa7d575f75 >}})
+{{< resource 26492f66-ee2b-caea-d77e-1cfa7d575f75 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/3720-1)
+**Video:** {{% resource_link 8aa12a7f-49e8-8edf-b5e4-9b627511bad4 "Writing and pronunciation" %}}
 
 **Printed form:** 鉄
 
@@ -210,9 +216,9 @@ Metal 金 gradually lost 失 through oxidation. \[銀 (ぎん) "silver"\]
 **Usage Examples:**  
 地下鉄 (ちかてつ) subway
 
-![3456.gif]({{< resource_file d67e4a77-46a1-b4fb-72a9-1296485a6efb >}})
+{{< resource d67e4a77-46a1-b4fb-72a9-1296485a6efb >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/3456)
+**Video:** {{% resource_link a6781ded-a219-575e-56f5-ac87b8ee3d7a "Writing and pronunciation" %}}
 
 **Printed form:** 替
 
@@ -226,9 +232,9 @@ People 夫夫 are changing day by day 日.
 **Usage Examples:**  
 両替 (りょうがえ) money exchange
 
-![3076.gif]({{< resource_file 3620d4b5-46af-07c6-050d-ffad0d9b5247 >}})
+{{< resource 3620d4b5-46af-07c6-050d-ffad0d9b5247 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/3076-1)
+**Video:** {{% resource_link f3ae22cb-13f7-221b-2c5c-30679df3293a "Writing and pronunciation" %}}
 
 **Printed form:** 場
 
@@ -242,9 +248,9 @@ Pigs 豚 under the sun 日 in the mud 土.
 **Usage Examples:**  
 切符売り場 (きっぷうりば) ticket counter
 
-![3644.gif]({{< resource_file bb2f723a-d3d4-2ca7-029f-7f7c1555debe >}})
+{{< resource bb2f723a-d3d4-2ca7-029f-7f7c1555debe >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/3644)
+**Video:** {{% resource_link 4f74be2a-b8f2-9200-0119-0231ff63d045 "Writing and pronunciation" %}}
 
 **Printed form:** 通
 
@@ -258,9 +264,9 @@ A man マ with errands 用 and the radical of "advance movement".
 **Usage Examples:**  
 通じる (つうじる) get through
 
-![0125.gif]({{< resource_file 0f7f9b97-e475-471b-2c94-5eb832337d78 >}})
+{{< resource 0f7f9b97-e475-471b-2c94-5eb832337d78 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/0125-1)
+**Video:** {{% resource_link 3e9b35fc-3930-170f-ee1b-e825bc8ae65c "Writing and pronunciation" %}}
 
 **Printed form:** 々
 
@@ -276,9 +282,9 @@ A symbol to indicate "pluralism".
 家々 (いえいえ) houses  
 人々 (ひとびと) people
 
-![Kanji20.gif]({{< resource_file 589ce2ec-721b-aa4a-e05c-5d6ec36195c2 >}})
+{{< resource 589ce2ec-721b-aa4a-e05c-5d6ec36195c2 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/kanji20)
+**Video:** {{% resource_link 2e721f19-8b1a-0445-c74f-cca8488e259a "Writing and pronunciation" %}}
 
 **Printed form:** 州
 
@@ -289,9 +295,9 @@ A symbol to indicate "pluralism".
 **Usage Examples:**  
 マサチューセッツ州 (しゅう) state of Massachusetts
 
-![Kanji21.gif]({{< resource_file 78a83335-8505-c9be-0175-6d87a5fd2c84 >}})
+{{< resource 78a83335-8505-c9be-0175-6d87a5fd2c84 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/kanji21-1)
+**Video:** {{% resource_link f50ed28e-9679-8122-52dc-26f09d4e7cfd "Writing and pronunciation" %}}
 
 **Printed form:** 政
 
@@ -302,9 +308,9 @@ A symbol to indicate "pluralism".
 **Usage Examples:**  
 政治家 (せいじか) politician
 
-![Kanji22.gif]({{< resource_file 99a00ae4-432e-b5e8-74c0-bed4639d6cea >}})
+{{< resource 99a00ae4-432e-b5e8-74c0-bed4639d6cea >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/kanji22)
+**Video:** {{% resource_link 383dfd00-6a1b-61e5-8405-6df8d4b87118 "Writing and pronunciation" %}}
 
 **Printed form:** 治
 
@@ -315,9 +321,9 @@ A symbol to indicate "pluralism".
 **Usage Examples:**  
 かぜが治った。 (かぜがなおった) I recovered from a cold.
 
-![Kanji23.gif]({{< resource_file 9c545efc-4aff-dd31-f162-ce5925664a33 >}})
+{{< resource 9c545efc-4aff-dd31-f162-ce5925664a33 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/kanji23-1)
+**Video:** {{% resource_link d9a21b74-4f4e-c0cb-e3f9-c465401a8676 "Writing and pronunciation" %}}
 
 **Printed form:** 性
 
@@ -329,9 +335,9 @@ A symbol to indicate "pluralism".
 男性 (だんせい) male  
 女性 (じょせい) female
 
-![Kanji24.gif]({{< resource_file 5665b9c7-5bd8-cd51-43c0-970283f88e11 >}})
+{{< resource 5665b9c7-5bd8-cd51-43c0-970283f88e11 >}}
 
-**Video:** [Writing and pronunciation]({{< baseurl >}}/resources/kanji24-1)
+**Video:** {{% resource_link da72e83f-a253-c625-14b6-db75f91710eb "Writing and pronunciation" %}}
 
 **Printed form:**普
 
@@ -399,4 +405,4 @@ READINGS
 
 \[Quizzes _(JavaScript required)_: [Meaning](/ans7870/21f/21f.504/s09/lesson19/kanji19-mean/kq19meanq1.html) (30 questions) | [Reading](/ans7870/21f/21f.504/s09/lesson19/kanji19-read/kq19readq1.html) (20 questions)\]
 
-\[[Lesson 19 Home]({{< baseurl >}}/pages/lesson-19)\]
+\[{{% resource_link 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25 "Lesson 19 Home" %}}\]

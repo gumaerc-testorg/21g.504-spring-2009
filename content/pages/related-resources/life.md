@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides links to useful information for life in Japan.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Useful Information for Life in Japan
 uid: dea6da6f-41a5-fe73-3d1e-cf9075d428f5
+video_metadata:
+  youtube_id: null
 ---
 
 [Japanese Railways Guide](http://web.archive.org/web/20080206152045/http://www.geocities.com/TheTropics/Cove/5750/)

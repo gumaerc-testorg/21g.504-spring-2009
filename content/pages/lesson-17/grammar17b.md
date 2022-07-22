@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: "Grammar section of a lesson on Japanese language. Includes: Verbal of\
+  \ Receiving \u3082\u3089\u3046 \"receive; get\"; Vte + \u3082\u3089\u3046 \"have\
+  \ someone do something; ask s.o. to do s.t.\"; Miscellaneous Notes (MN); and a Photographic\
+  \ Vocabulary Aid."
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 17
+parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Grammar 17B
 uid: ea51bf8a-d402-0e7e-95cf-955045d4ec5e
+video_metadata:
+  youtube_id: null
 ---
 
 [Verbal of Receiving もらう "receive; get"](#1)
@@ -60,7 +69,7 @@ Express the situations from the benefiting receiver's viewpoints.
 3.  (あなた) (receiver) → けいちゃん (giver): 何
 4.  (あなた) (receiver) → だれ (giver): その手紙
 
-[Answers]({{< baseurl >}}/pages/lesson-17/gn17b_ans1)
+{{% resource_link ac98471a-f322-094b-20a3-d2455a14ccb7 "Answers" %}}
 
 {{< anchor "2" >}}{{< /anchor >}}Vte + もらう "Have someone do something; Ask s.o. to do s.t." (lit. Receive a benefit from someone's doing something)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -105,7 +114,7 @@ Express the situations from the benefit receiver's viewpoints.
 5.  だれが(あなたの)しゅくだいを手伝いましたか → (あなたは)
 6.  モリスさんは何をしましたか (for your sake) →
 
-[Answers]({{< baseurl >}}/pages/lesson-17/gn17b_ans2)
+{{% resource_link 82f38142-c034-1248-df9a-0652e1fcfab0 "Answers" %}}
 
 {{< anchor "3" >}}{{< /anchor >}}Miscellaneous Notes (MN)
 ---------------------------------------------------------
@@ -161,13 +170,13 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![entrance1.jpg]({{< resource_file 6d661a36-5e4c-d995-3c08-c0420e7ac9a2 >}})![](/courses/foreign-languages-and-literatures/21g-504-japanese-iv-spring-2009/lesson-17/entrance1.jpg)]({{< baseurl >}}/resources/entrance1)
+[{{< resource 6d661a36-5e4c-d995-3c08-c0420e7ac9a2 >}}{{< resource "6d661a36-5e4c-d995-3c08-c0420e7ac9a2" >}}]({{< baseurl >}}/resources/entrance1)
 {{< tdclose >}}
 {{< tdopen >}}
-[![]({{< resource_file 8cdd1bb0-da18-1354-4b26-b85a9c46ef7f >}})![room4.jpg]({{< resource_file 8cdd1bb0-da18-1354-4b26-b85a9c46ef7f >}})]({{< baseurl >}}/resources/room4)
+[{{< resource 8cdd1bb0-da18-1354-4b26-b85a9c46ef7f >}}{{< resource 8cdd1bb0-da18-1354-4b26-b85a9c46ef7f >}}]({{< baseurl >}}/resources/room4)
 {{< tdclose >}}
 {{< tdopen >}}
-[![niwa.jpg]({{< resource_file b5dde481-737a-a663-4e56-e5b696efd0a4 >}})![](/courses/foreign-languages-and-literatures/21g-504-japanese-iv-spring-2009/lesson-17/niwa.jpg)]({{< baseurl >}}/resources/niwa)
+[{{< resource b5dde481-737a-a663-4e56-e5b696efd0a4 >}}{{< resource "b5dde481-737a-a663-4e56-e5b696efd0a4" >}}]({{< baseurl >}}/resources/niwa)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,6 +188,6 @@ The thumbnail photos below contain some of the words you know from this lesson. 
   
  
 
-\[[Grammar 17A]({{< baseurl >}}/pages/lesson-17/grammar17a) | Grammar 17B\] 
+\[{{% resource_link 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0 "Grammar 17A" %}} | Grammar 17B\] 
 
-\[[Lesson 17 Home]({{< baseurl >}}/pages/lesson-17)\]
+\[{{% resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" %}}\]

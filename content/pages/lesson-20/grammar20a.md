@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 20
+parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Grammar 20A
 uid: 06c1d8af-6228-699d-a7d5-f60bd4748802
+video_metadata:
+  youtube_id: null
 ---
 
 [Nominalizer の](#1)
@@ -49,7 +55,7 @@ Embed the expressions using nominalizer の.
 3.  (そんな仕事をします) → \_\_\_\_\_\_\_\_\_\_\_ は大変です。
 4.  (ジルはたばこをすっています) → \_\_\_\_\_\_\_\_\_\_\_ を見ました 。
 
-[Answers]({{< baseurl >}}/pages/lesson-20/gn20a_ans1)
+{{% resource_link 191cdf68-532a-6220-2cea-5c5fe2b4c508 "Answers" %}}
 
 {{< anchor "2" >}}{{< /anchor >}}V のに "in the process of doing; for the purpose of doing"
 -----------------------------------------------------------------------------------------
@@ -75,7 +81,7 @@ Embed the expressions using nominalizer の.
 3.  にもつをあずけます-お金が三百円かかりました。
 4.  成田へ行きます-JRせん (JR Line) が便利です 。
 
-[Answers]({{< baseurl >}}/pages/lesson-20/gn20a_ans2)
+{{% resource_link 1f1b42b7-a043-5abb-0480-d21630a709e8 "Answers" %}}
 
 {{< anchor "3" >}}{{< /anchor >}}Comparison of Activities
 ---------------------------------------------------------
@@ -111,7 +117,7 @@ Make up questions and answers.
 3.  ねる、新聞を読む、買い物する: 好きですか。
 4.  料理する、さらをあらう、そうじする: 上手ですか。
 
-[Answers]({{< baseurl >}}/pages/lesson-20/gn20a_ans3)
+{{% resource_link b7c92702-3797-661c-0dac-299b6fe6b2c0 "Answers" %}}
 
 {{< anchor "4" >}}{{< /anchor >}}…方がいい
 --------------------------------------
@@ -145,7 +151,7 @@ Make up questions and answers.
     2.  電話でちゅうもんしておく →
     3.  日本へ帰る →
     
-    [Answers]({{< baseurl >}}/pages/lesson-20/gn20a_ans4)
+    {{% resource_link 5f56cd61-7697-3b89-287b-2a66f87a627c "Answers" %}}
     
 2.  V (neg, imperf) 方がいい "It would be better if not V; had better not V"
     
@@ -175,7 +181,7 @@ Make up questions and answers.
     2.  おさけを飲みすぎません →
     3.  山本さんには頼みません →
     
-    [Answers]({{< baseurl >}}/pages/lesson-20/gn20a_ans5)
+    {{% resource_link ab1ad996-01e0-119c-af5e-fb737fb62d75 "Answers" %}}
     
 
 つもりだ {{< anchor "5" >}}{{< /anchor >}}"intend to"
@@ -219,7 +225,7 @@ Note: つもり "intention" is a dependent nominal.
 4.  よくテープを(聞きました)つもりだけど、ぜんぜん言えません。
 5.  そ母は 80 さいですけど、まだ(わかいです) →
 
-[Answers]({{< baseurl >}}/pages/lesson-20/gn20a_ans6)
+{{% resource_link 2a4e3e78-d59a-2c7a-b5a7-226dadc88a8f "Answers" %}}
 
 {{< anchor "6" >}}{{< /anchor >}}Direct-style Consultative
 ----------------------------------------------------------
@@ -401,7 +407,7 @@ Express your volitions.
 7.  だれにわたしますか。
 8.  どの電車にのりますか。
 
-[Answers]({{< baseurl >}}/pages/lesson-20/answers20)
+{{% resource_link 988fb1e0-654e-f228-42b2-7b2426754f5b "Answers" %}}
 
 {{< anchor "7" >}}{{< /anchor >}}Approximate Numbers
 ----------------------------------------------------
@@ -424,7 +430,7 @@ Two consecutive numbers + classifier. Examples:
 7.  7.3 to 4 days
 8.  8.4 to 5 days
 
-[Answers]({{< baseurl >}}/pages/lesson-20/gn20a_ans8)
+{{% resource_link 2097fee3-dc92-9167-e36b-90eaa2ad11cc "Answers" %}}
 
 {{< anchor "8" >}}{{< /anchor >}}Miscellaneous Notes (MN)
 ---------------------------------------------------------
@@ -447,6 +453,6 @@ Locations of quantity expressions:
     You can ask Takkyuubin by one phone call.
     
 
-\[Grammar 20A | [Grammar 20B]({{< baseurl >}}/pages/lesson-20/grammar20b)\]
+\[Grammar 20A | {{% resource_link d2b01abc-d6ff-4b35-129a-e93141e3497b "Grammar 20B" %}}\]
 
-\[[Lesson 20 Home]({{< baseurl >}}/pages/lesson-20)\]
+\[{{% resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" %}}\]

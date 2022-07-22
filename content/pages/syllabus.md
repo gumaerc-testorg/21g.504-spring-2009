@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  required texts, objectives and procedures, evaluation, online supplementary materials
+  and resources, and audio/visual materials.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1a331688-3f3f-4969-caf9-81f937ef25ba
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

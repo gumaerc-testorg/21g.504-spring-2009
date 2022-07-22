@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 18
+parent_type: CourseSection
 parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 title: Supplemental Reading 18
 uid: 2f0cddb5-f476-24aa-5d77-a3137e559fde
+video_metadata:
+  youtube_id: null
 ---
 
 1.  松島さんのお宅には小さな池があると聞いた。  
@@ -26,6 +32,6 @@ uid: 2f0cddb5-f476-24aa-5d77-a3137e559fde
     
 10.  島田さんという教授はまだ若いが、もう何さつも本を出している。研究所の所長に一さつ貸してもらって読んだが、なかなかおもしろかった。本の名前は何というか忘れてしまったが......。先日、島田先生の新しい本が出たと聞いて、本屋に行ったが、もうなくなっていた。すぐ注文 (ちゅうもん) したが、いつ来るかわからないと店の人が言っていた。
 
-\[[Reading 18A]({{< baseurl >}}/pages/lesson-18/reading18a) | [Reading 18B]({{< baseurl >}}/pages/lesson-18/reading18b) | Supplemental\]
+\[{{% resource_link b5d9aa6e-99d3-8b43-d2cb-6f06bab6b55e "Reading 18A" %}} | {{% resource_link 6e99b027-4ba5-3a74-8571-f462c7b1a9b1 "Reading 18B" %}} | Supplemental\]
 
-\[[Lesson 18 Home]({{< baseurl >}}/pages/lesson-18)\]
+\[{{% resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" %}}\]

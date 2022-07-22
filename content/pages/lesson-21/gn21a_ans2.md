@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lesson 21
+parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21A Section II Answers
 uid: 63c95c25-a46e-6f53-760a-af70f7756362
+video_metadata:
+  youtube_id: null
 ---
 
 1.  それは、日本人しか分かりません。  
@@ -22,4 +28,4 @@ uid: 63c95c25-a46e-6f53-760a-af70f7756362
     I only know 200 kanji.
     
 
-\[[Back to Grammar 21A]({{< baseurl >}}/pages/lesson-21/grammar21a#2)\]
+\[{{% resource_link 8d91cd27-1c75-2031-6dcc-da546c822f5b "Back to Grammar 21A" "#2" %}}\]
