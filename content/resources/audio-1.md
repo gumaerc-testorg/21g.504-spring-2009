@@ -2,7 +2,8 @@
 content_type: resource
 description: Icon representing a speaker, used as a navigational element on a course
   site.
-file: /courses/21g-504-japanese-iv-spring-2009/6462cdf935c4cd917d1295ce39480f6d_audio.jpg
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/6462cdf935c4cd917d1295ce39480f6d_audio.jpg
+file_size: 444
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of a river accompanying a lesson on Japanese vocabulary.
-file: /courses/21g-504-japanese-iv-spring-2009/674f25852f72f06ffd9050e0627e5ec6_hayakawa.jpg
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/674f25852f72f06ffd9050e0627e5ec6_hayakawa.jpg
+file_size: 20210
 file_type: image/jpeg
 image_metadata:
   caption: ''

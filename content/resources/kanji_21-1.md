@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Photograph of a kanji character accompanying a lesson on Japanese. '
-file: /courses/21g-504-japanese-iv-spring-2009/05108210ffaae6672fc07ecdd8fa9dcf_Kanji_21.gif
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/05108210ffaae6672fc07ecdd8fa9dcf_Kanji_21.gif
+file_size: 4216
 file_type: image/gif
 image_metadata:
   caption: ''

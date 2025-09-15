@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: QuickTime movie of a kanji character being painted with a brush.
-file: /courses/21g-504-japanese-iv-spring-2009/87439f7e927ac17c50df85c3354e95a5_Kanji32.mov
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/87439f7e927ac17c50df85c3354e95a5_Kanji32.mov
+file_size: 4262387
 file_type: video/quicktime
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

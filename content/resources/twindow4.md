@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of a sign accompanying a lesson on Japanese vocabulary.
-file: /courses/21g-504-japanese-iv-spring-2009/912752121bea2f300556777f0b608b85_tWindow4.jpg
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/912752121bea2f300556777f0b608b85_tWindow4.jpg
+file_size: 19374
 file_type: image/jpeg
 image_metadata:
   caption: ''

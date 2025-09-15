@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Audio recording demonstrating Japanese pronunciation.
-file: /courses/21g-504-japanese-iv-spring-2009/de29344b80d30d5466a4fe84068c8de8_Lesson20A9.mp3
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/de29344b80d30d5466a4fe84068c8de8_Lesson20A9.mp3
+file_size: 276906
 file_type: audio/mpeg
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

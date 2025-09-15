@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of a travelers accompanying a lesson on Japanese vocabulary.
-file: /courses/21g-504-japanese-iv-spring-2009/8291c438e4b39e36ab0cbfdfb3999a6e_tMachine1.jpg
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/8291c438e4b39e36ab0cbfdfb3999a6e_tMachine1.jpg
+file_size: 18892
 file_type: image/jpeg
 image_metadata:
   caption: ''

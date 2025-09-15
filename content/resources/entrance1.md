@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of a garden accompanying a lesson on Japanese vocabulary.
-file: /courses/21g-504-japanese-iv-spring-2009/6d661a365e4cd9953c08c0420e7ac9a2_entrance1.jpg
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/6d661a365e4cd9953c08c0420e7ac9a2_entrance1.jpg
+file_size: 16463
 file_type: image/jpeg
 image_metadata:
   caption: ''

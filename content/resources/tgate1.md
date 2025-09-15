@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of a gate accompanying a lesson on Japanese vocabulary.
-file: /courses/21g-504-japanese-iv-spring-2009/2e136b83936a4c140f0a7c59ac8e0ccb_tGate1.jpg
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/2e136b83936a4c140f0a7c59ac8e0ccb_tGate1.jpg
+file_size: 18611
 file_type: image/jpeg
 image_metadata:
   caption: ''

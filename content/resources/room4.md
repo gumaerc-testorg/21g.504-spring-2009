@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of a room accompanying a lesson on Japanese vocabulary.
-file: /courses/21g-504-japanese-iv-spring-2009/8cdd1bb0da1813544b26b85a9c46ef7f_room4.jpg
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/8cdd1bb0da1813544b26b85a9c46ef7f_room4.jpg
+file_size: 17301
 file_type: image/jpeg
 image_metadata:
   caption: ''

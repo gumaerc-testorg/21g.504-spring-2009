@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Archive containing audio recordings demonstrating Japanese pronunciation.
-file: /courses/21g-504-japanese-iv-spring-2009/b564fc62f43b7a087ea87c0e2db705c8_Read21A_audio.zip
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/b564fc62f43b7a087ea87c0e2db705c8_Read21A_audio.zip
+file_size: 2345869
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

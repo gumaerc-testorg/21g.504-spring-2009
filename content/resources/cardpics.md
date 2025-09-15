@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of a card and two pictures accompanying a lesson on Japanese.
-file: /courses/21g-504-japanese-iv-spring-2009/36da5d939a1ebbcd6ef2f20688d20a62_cardpics.jpg
+file: /ol-ocw-studio-app/courses/21g-504-japanese-iv-spring-2009/36da5d939a1ebbcd6ef2f20688d20a62_cardpics.jpg
+file_size: 39979
 file_type: image/jpeg
 image_metadata:
   caption: ''
