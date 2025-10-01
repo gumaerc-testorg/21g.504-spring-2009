@@ -17,7 +17,7 @@ video_metadata:
 
 1.  Review vocabulary and structure of 17AB and 18AB
 2.  Utilization sections of L17 and L18
-3.  Eavesdropping sections of L17 and L18 ([audio files](http://languagelab.it.ohio-state.edu/))
+3.  Eavesdropping sections of L17 and L18 ({{% resource_link "9251e97a-9a29-4a81-9fbb-75095efda672" "audio files" %}})
 4.  Review exercises for {{% resource_link 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0 "Grammar 17A" %}}, {{% resource_link ea51bf8a-d402-0e7e-95cf-955045d4ec5e "Grammar 17B" %}}
 5.  {{% resource_link d36a1695-a5a5-3415-09d8-80996017162e "Practice Quiz 18" %}}
 
@@ -28,7 +28,7 @@ video_metadata:
 
 1.  Review vocabulary and structure of 19AB
 2.  Utilization sections of L19
-3.  Eavesdropping sections of L19 ([audio files](http://languagelab.it.ohio-state.edu/))
+3.  Eavesdropping sections of L19 ({{% resource_link "9251e97a-9a29-4a81-9fbb-75095efda672" "audio files" %}})
 4.  {{% resource_link 7e07361d-60a5-b4e8-c1f2-ab0a478ea090 "Practice Quiz 19" %}}
 
 {{< anchor "3" >}}{{< /anchor >}}Lesson Quiz 3 - {{% resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20" %}}
@@ -38,7 +38,7 @@ video_metadata:
 
 1.  Review vocabulary and structure of 20AB
 2.  Utilization sections of L20
-3.  Eavesdropping sections of L20 ([audio files](http://languagelab.it.ohio-state.edu/))
+3.  Eavesdropping sections of L20 ({{% resource_link "9251e97a-9a29-4a81-9fbb-75095efda672" "audio files" %}})
 4.  {{% resource_link 855da04b-010a-c98e-f4c2-d1f6c7f335ba "Practice Quiz 20" %}}
 
 {{< anchor "4" >}}{{< /anchor >}}Hour exam - Lesson 22A まで
