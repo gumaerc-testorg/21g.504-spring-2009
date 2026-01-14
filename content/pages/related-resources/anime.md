@@ -12,14 +12,14 @@ video_metadata:
   youtube_id: null
 ---
 
-{{% resource_link "35c83d20-2771-403c-a48c-6526f23c0abf" "MangaScreener.Com" %}}
+[MangaScreener.Com](http://www.mangascreener.com/)
 
-{{% resource_link "50ec4eb1-3af7-49ec-86fb-c60d979bcf4e" "Snoopy in Japanese!" %}}
+[Snoopy in Japanese!](http://www.snoopy.co.jp/)
 
-{{% resource_link "a243e9b3-e4dc-458b-a68c-0f666bf52f1d" "AnimeNfo" %}}
+[AnimeNfo](http://www.animenfo.com/)
 
-{{% resource_link "30feb51f-b595-42ec-821e-f61c9512d6aa" "Search for Anime Online" %}}
+[Search for Anime Online](http://www.aesearch.cjb.net/)
 
-{{% resource_link "3bcfffce-de0f-4290-9ea9-f8ed0ecfcc37" "Rec.Arts.Anime.Creative: Anime Fanfiction Stories" %}}
+[Rec.Arts.Anime.Creative: Anime Fanfiction Stories](http://groups.google.com/group/rec.arts.anime.creative/topics)
 
-{{% resource_link "8f614d7d-abf4-4674-b91a-658c7d997846" "JDRAMA Database" %}}
+[JDRAMA Database](http://www.nt2099.com/DORAMA/)

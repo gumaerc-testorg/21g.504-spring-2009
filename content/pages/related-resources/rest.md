@@ -12,12 +12,12 @@ video_metadata:
   youtube_id: null
 ---
 
-{{% resource_link "203bf853-d38a-4a5c-8ac2-40992e6ad915" "ChefMoz" %}}
+[ChefMoz](https://web.archive.org/web/20111114045412/http://chefmoz.org/Japan/)
 
-{{% resource_link "6c0663cf-bebe-45c1-b11b-58bc3cbb20d3" "Gourmet Navigator" %}}
+[Gourmet Navigator](http://gnavi.joy.ne.jp/)
 
-{{% resource_link "77287cef-07f6-4717-b777-e671cfedfc75" "Google Websearch: Travel and Tourism" %}}
+[Google Websearch: Travel and Tourism](http://web.archive.org/web/20050323230438/http://nightclub.com/clubconnection/japan/index.html)
 
-{{% resource_link "255f4f86-0302-4aeb-89b2-21fc1a772384" "TokyoQ" %}}
+[TokyoQ](http://www.tokyoq.com/)
 
-{{% resource_link "48e6020a-b77b-428c-a931-28ab233ea893" "Bento.com" %}}
+[Bento.com](http://www.bento.com/tokyofood.html)

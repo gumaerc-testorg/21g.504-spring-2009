@@ -12,38 +12,38 @@ video_metadata:
   youtube_id: null
 ---
 
-{{% resource_link "66b419d0-0e32-4e51-8788-e192091e1f13" "Japanese Railways Guide" %}}
+[Japanese Railways Guide](http://web.archive.org/web/20080206152045/http://www.geocities.com/TheTropics/Cove/5750/)
 
-{{% resource_link "c263b8c5-d68e-4f86-a429-45cffe3be98a" "JTB USA: Japan Rail Information" %}}
+[JTB USA: Japan Rail Information](http://www.japanrailpass.net/en/)
 
-{{% resource_link "dc208b74-e891-4dcc-bf73-d0afc9f6b0f1" "About.com: Life in Japan" %}}
+[About.com: Life in Japan](http://www.japan-guide.com/e/e625.html)
 
-{{% resource_link "0d570f73-a242-4976-93ec-1ede29d24f1c" "Tokyo Touring Tips" %}}
+[Tokyo Touring Tips](http://www.tctour.co.jp/)
 
-{{% resource_link "761c8540-47d8-49e7-8cd3-41a1895242de" "Useful common knowledge!!" %}}
+[Useful common knowledge!!](http://web.archive.org/web/20070207022942/http://english.itp.ne.jp/content/live/index.html)
 
-{{% resource_link "7fd9c1cb-dc29-45c2-9f0b-551bfd77dc98" "How to Survive being broke in Japan" %}}
+[How to Survive being broke in Japan](http://ydjapanwiki.pbworks.com/Surviving%20When%20You%27re%20Broke!)
 
-{{% resource_link "937b6228-b2a4-49b1-a5d1-4659bb06bb15" "Free Internet Access in Japan" %}}
+[Free Internet Access in Japan](http://web.archive.org/web/20070213234421/http://64.33.59.128/www/eindex.html)
 
-{{% resource_link "c8da7311-bab7-4478-b078-1a9e60f987cd" "Japan National Tourist Organization" %}}
+[Japan National Tourist Organization](http://www.jnto.go.jp/eng/)
 
-{{% resource_link "4265cca1-e7ac-4570-b25e-538d85529f59" "Postal Codes in Japan" %}}
+[Postal Codes in Japan](http://yubin.senmon.net/en/)
 
-{{% resource_link "fb508315-e26b-459f-9482-a2db4425a3e0" "Tokyo Points of Interest" %}}
+[Tokyo Points of Interest](http://www.tcvb.or.jp/en/)
 
-{{% resource_link "db8112d0-9e11-4345-8cbb-0ed2833a63bc" "Tokyo Metropolitan Parks Guide" %}}
+[Tokyo Metropolitan Parks Guide](http://www.tokyo-park.or.jp/english/)
 
-{{% resource_link "90c46ca4-3d97-4b42-a13d-f984593474ea" "Ghibli Museum" %}}
+[Ghibli Museum](http://www.ghibli-museum.jp/)
 
-{{% resource_link "e0790170-5b22-4d34-ad30-79e17538c065" "Metropolis Japan Today" %}}
+[Metropolis Japan Today](http://metropolis.co.jp/)
 
-{{% resource_link "6a9c8869-46ad-4c99-9afb-210bf834e994" "Sado Island" %}}
+[Sado Island](http://www.mijintl.com/)
 
-{{% resource_link "8e6afc12-08f7-40fd-851b-2caa75f558e3" "Hitch-hiking Tips" %}}
+[Hitch-hiking Tips](http://web.archive.org/web/20060710091136/http://metropolis.japantoday.com/tokyofeaturestories/366/tokyofeaturestoriesinc.htm)
 
-{{% resource_link "383aa54e-5f91-4e94-ad65-4d15c080e3e2" "Beaches" %}}
+[Beaches](http://web.archive.org/web/20060710091211/metropolis.japantoday.com/tokyofeaturestories/376/tokyofeaturestoriesinc.htm)
 
-{{% resource_link "da407336-01da-48b7-9a92-ea3b9051a296" "Ocha Cafes" %}}
+[Ocha Cafes](http://web.archive.org/web/20060708010338/metropolis.japantoday.com/tokyofeaturestories/375/tokyofeaturestoriesinc.htm)
 
-{{% resource_link "80ecc16b-f19a-42b4-bea0-2dc2c7f4c276" "Summer in the City" %}}
+[Summer in the City](http://web.archive.org/web/20060711151845/metropolis.japantoday.com/tokyofeaturestories/383/tokyofeaturestoriesinc.htm)

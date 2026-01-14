@@ -13,7 +13,7 @@ video_metadata:
   youtube_id: null
 ---
 
-Each character entry below contains a ≤1 MB QuickTime movie of the character being painted with a brush, created by {{% resource_link "a3b7f98f-a41d-4458-bc3a-3c12cd3231fb" "Prof. Saeko Komori" %}} of {{% resource_link "80547105-6e9c-423a-871b-e901e150a11c" "Chubu University" %}}. Please see the {{% resource_link "d4e8de87-15aa-4fb4-9276-224750e487e6" "JP Net Kanji Project" %}} for more details.
+Each character entry below contains a ≤1 MB QuickTime movie of the character being painted with a brush, created by [Prof. Saeko Komori](http://www.mokosystem.com/komori/wwkanji2k/wwkanji2056.html) of [Chubu University](http://www.chubu.ac.jp/). Please see the [JP Net Kanji Project](http://web.mit.edu/jpnet/kanji-project/index.html) for more details.
 
 In the following definitions, **on** (Chinese-based) readings are represented by katakana, and by capital romaji letters; **kun** (native Japanese-based) readings are represented by hiragana, and by lower-case romaji letters. This is a common dictionary convention, and does not have any bearing on meaning.
 

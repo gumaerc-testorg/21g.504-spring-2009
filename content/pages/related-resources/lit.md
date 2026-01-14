@@ -13,16 +13,16 @@ video_metadata:
   youtube_id: null
 ---
 
-{{% resource_link "ff25e26c-ddca-4d84-afac-21cee3222f94" "Classical Japanese Network" %}}
+[Classical Japanese Network](https://web.archive.org/web/20051231235550/http://www.classical-japanese.net/)
 
-{{% resource_link "24f6e1f6-1481-4fa4-a268-98574d37b989" "Classical Japanese Texts" %}}
+[Classical Japanese Texts](http://etext.lib.virginia.edu/japanese/)
 
-{{% resource_link "647fc95b-a648-46c7-a11a-b20ebaa2d90b" "The Bible in Japanese" %}}
+[The Bible in Japanese](http://www.biblica.com/bibles/japanese/index.php)
 
-{{% resource_link "7629526f-1e75-4b2a-a26c-5d037a8c9409" "Kinokuniya" %}}
+[Kinokuniya](http://www.kinokuniya.co.jp/)
 
-{{% resource_link "bedde001-b799-4f4f-8197-f21c8d575cef" "Zakka Shop" %}}
+[Zakka Shop](http://www.zakkacorp.com/)
 
-{{% resource_link "7861a040-69f7-4e72-84a2-4eec2162fb1d" "Sasuga" %}}
+[Sasuga](http://www.sasugabooks.com/)
 
-{{% resource_link "79d26924-d38f-4c84-a0a4-61e35e59eee3" "Amazon" %}}
+[Amazon](http://www.amazon.co.jp/)

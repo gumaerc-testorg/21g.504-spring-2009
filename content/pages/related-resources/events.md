@@ -12,44 +12,44 @@ video_metadata:
   youtube_id: null
 ---
 
-{{% resource_link "dcc1e367-1913-40ea-945a-2bfea6e5ea75" "Japan Today" %}}
+[Japan Today](https://japantoday.com/)
 
-The Daily Yomiuri Online - {{% resource_link "1bce51a7-0d9c-49f4-ac67-e909f31032a8" "日本語" %}} {{% resource_link "b4f7ff61-370f-4cd6-b471-e64791edb541" "English" %}}  
+The Daily Yomiuri Online - [日本語](https://www.yomiuri.co.jp/) [English](http://www.yomiuri.co.jp/)  
 
-{{% resource_link "46599e43-194b-4b41-8bb5-507140cdd919" "The Japan Times" %}}
+[The Japan Times](https://www.japantimes.co.jp/)
 
-Asahi News - {{% resource_link "3b6564c6-2db9-458a-9b35-d24f7c0574f4" "日本語" %}} {{% resource_link "a5c97c96-5339-48a4-aaea-2359cd297074" "English" %}}
+Asahi News - [日本語](http://www.asahi.com/home.html) [English](http://www.asahi.com/)
 
-{{% resource_link "a6d86c3b-5938-4780-8167-e8a4f8f2d2ef" "Sankei Shimbun" %}}
+[Sankei Shimbun](https://www.sankei.com/)
 
-{{% resource_link "f97e3e40-335d-457d-832b-2390a75ac14c" "Fuji News Network" %}}
+[Fuji News Network](http://www.fnn-news.com/)
 
-{{% resource_link "aa5844c8-d92e-419b-a12a-8f2004e8fc77" "Ministry of Foreign Affairs" %}}
+[Ministry of Foreign Affairs](http://www.mofa.go.jp/)
 
-{{% resource_link "2598631b-a896-4fa9-a6f0-c63da9fa8c3c" "The Okinawa Times" %}}
+[The Okinawa Times](https://www.japantimes.co.jp/tag/okinawa-times/)
 
-{{% resource_link "c2e1abe6-caa3-4c10-bc82-b1563f36e8b3" "Fukuoka Kyushu Guide" %}}
+[Fukuoka Kyushu Guide](https://fukuoka-kyushu-travel.com/)
 
-{{% resource_link "c9a51710-dd1f-4141-a7f4-e28848f01e3d" "Chunichi Shimbun" %}}
+[Chunichi Shimbun](https://www.chunichi.co.jp/)
 
-{{% resource_link "7e69189d-2d48-4e6c-b33f-93bee1cbd570" "Kitanippon Shimbun" %}}
+[Kitanippon Shimbun](http://www.kitanippon.co.jp/)
 
-{{% resource_link "733566ea-c386-47ab-95f9-a32b16724123" "Hokkaido Shimbun" %}}
+[Hokkaido Shimbun](https://www.hokkaido-np.co.jp/)
 
-{{% resource_link "5e774f6b-aa6d-44ba-9ec4-23c0d2721ad0" "Hokkoku Shimbun" %}}
+[Hokkoku Shimbun](https://www.hokkoku.co.jp/)
 
-Kyoto Shimbun - {{% resource_link "80c2143a-3302-4b92-a433-1e4d5b0c4b0c" "日本語" %}} {{% resource_link "e7060c9a-cdfe-4338-8c0b-1e1b42a5e531" "English" %}}
+Kyoto Shimbun - [日本語](https://www.kyoto-np.co.jp/) [English](http://www.kyoto-np.co.jp/kp/english/index.html)
 
-{{% resource_link "d72a1349-814c-4a31-8cde-887facb24287" "Niigata Nippo News" %}}
+[Niigata Nippo News](https://www.niigata-nippo.co.jp/)
 
-{{% resource_link "071fc5ff-0729-476b-a4c7-3de735bc17bb" "Nihonkai Shimbun" %}}
+[Nihonkai Shimbun](https://www.nnn.co.jp/)
 
-{{% resource_link "07dcedce-da86-428e-9285-b7f140e24b52" "Osaka News" %}}
+[Osaka News](http://www.sankei-kansai.com/)
 
-{{% resource_link "549204a9-5fa3-4ef1-9779-58f89dcd933a" "Nara Shimbun" %}}
+[Nara Shimbun](https://www.nara-np.co.jp/)
 
-{{% resource_link "df5eabae-d6cb-4465-8c6b-241ab8daef4c" "Tokyo Shimbun" %}}
+[Tokyo Shimbun](http://www.tokyo-np.co.jp/)
 
-{{% resource_link "619011dc-901a-481d-9b44-d14c7069e21b" "Tokushima Shimbun" %}}
+[Tokushima Shimbun](https://www.topics.or.jp/)
 
-{{% resource_link "38511f85-7064-4b9c-86bc-adeb3fc2276f" "Toyama Shimbun" %}}
+[Toyama Shimbun](http://www.toyama.hokkoku.co.jp/)

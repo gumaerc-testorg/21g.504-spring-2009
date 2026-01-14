@@ -12,16 +12,16 @@ video_metadata:
   youtube_id: null
 ---
 
-Search Japanese radio stations on {{% resource_link "723f06f0-d682-4150-a4c2-e428604fe7de" "Shoutcast" %}}
+Search Japanese radio stations on [Shoutcast](https://www.shoutcast.com)
 
-{{% resource_link "206d5bed-9866-4bd3-89d4-da4cadc26bf2" "Armitage's Streaming JPop, JRock and Anime" %}}
+[Armitage's Streaming JPop, JRock and Anime](http://www.armitunes.com/)
 
-{{% resource_link "994c827e-384a-40a8-983d-88f727ce75d1" "WebRadioList.Com Japanese Music Stations" %}}
+[WebRadioList.Com Japanese Music Stations](http://webradiolist.com/radios/music.asp?SW=3&LC=Japan)
 
-{{% resource_link "4990679c-6f7e-46f9-96cf-baab42f9e98a" "Japan-A-Radio" %}}
+[Japan-A-Radio](http://www.japanaradio.com/)
 
-{{% resource_link "0cde1d0c-bef4-489e-b4af-c93531174395" "Megchan's Jpop Pages" %}}
+[Megchan's Jpop Pages](http://www.megchan.com/)
 
-{{% resource_link "3f0244b6-06c4-4c34-84dc-d91e743dadcc" "Jpop Lyrics Station" %}}
+[Jpop Lyrics Station](http://www.jpoplyricstation.homestead.com/Lyrics.html)
 
-{{% resource_link "b695ad21-2b6f-49ea-9aec-513231b9a949" "Jpop Lyrics" %}}
+[Jpop Lyrics](http://web.archive.org/web/20020619185220/http://rose.zero.ad.jp/~zaa74072/jpop_lyric/)

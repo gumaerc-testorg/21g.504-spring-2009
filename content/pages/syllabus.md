@@ -179,5 +179,5 @@ Supplementary course materials and other resources are available on the course s
 {{< anchor "Audio/Visual_Materials" >}}{{< /anchor >}}Audio/Visual Materials
 ----------------------------------------------------------------------------
 
-*   When you practice assigned Drills and Core Conversations, we encourage you to utilize the {{% resource_link "9251e97a-9a29-4a81-9fbb-75095efda672" "Digital Language Lab" %}} at Ohio State University for the video clips of Core Conversations, and audio of the Drills and Eavesdropping sections in _Japanese: the Spoken Language_.
-*   You can listen to the audio, record your own voice, and compare with the model by downloading a {{% resource_link "a548493e-9347-466a-9383-66d857587465" "DLRecorder" %}}.
+*   When you practice assigned Drills and Core Conversations, we encourage you to utilize the [Digital Language Lab](http://languagelab.it.ohio-state.edu/) at Ohio State University for the video clips of Core Conversations, and audio of the Drills and Eavesdropping sections in _Japanese: the Spoken Language_.
+*   You can listen to the audio, record your own voice, and compare with the model by downloading a [DLRecorder](http://projects.oscelot.org/gf/project/dlrecorder/).

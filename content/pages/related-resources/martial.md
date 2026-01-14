@@ -12,12 +12,12 @@ video_metadata:
   youtube_id: null
 ---
 
-{{% resource_link "420f94b6-572e-456c-ae29-8d49619a30ac" "The Book of Five Rings" %}}
+[The Book of Five Rings](http://www.samurai.com/5rings/)
 
-{{% resource_link "d093ad45-c7f9-4cba-a923-92edebc80fe5" "Martial Arts Links" %}}
+[Martial Arts Links](http://www.freeweb.hu/kihon/cimek2.html)
 
-{{% resource_link "ba56c447-317f-42af-84d9-3b6b8c84f6ab" "Acrobatic Trick Karate Moves" %}}
+[Acrobatic Trick Karate Moves](http://www.neokarate.net/lingo/)
 
-{{% resource_link "f6491a91-d050-45c4-89fb-7cfb31b7c001" "Noble House Kenjutsu Shinkage Ryu" %}}
+[Noble House Kenjutsu Shinkage Ryu](http://web.archive.org/web/20080918084616/http://members.shaw.ca/jlyall/noblehouse/sword_tech/)
 
-{{% resource_link "a2ffadcf-bcbe-4365-ae64-f54236b4804b" "NPS Cutlery Firm" %}}
+[NPS Cutlery Firm](http://www.n-p-s.net/)
